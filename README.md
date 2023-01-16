@@ -1,5 +1,7 @@
 # testing_prcjt
 
+ГитХаб с другими задачами (могут быть на экзамене) - [тык](https://github.com/isherep/Practice-it-4th-edition)
+
 #### Билет ??
 Первый элемент в конец списка
 [firstLast](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/first_last/FL.java)
