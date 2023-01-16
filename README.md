@@ -21,6 +21,7 @@ Map от целых чисел к строкам в качестве парам�
 [guavaSort](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/guavaSort/Guava_sort.java)
 
 #### Билет 7
+Удаление элементов связанного списка, повторяющиеся в другом списке (включить в LinkedList)
 [removeAll](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/remove/remove_all.java)
 
 #### Билет 9
