@@ -4,6 +4,11 @@
 Первый элемента в конец списка
 [firstLast](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/first_last/FL.java)
 
+#### Билет ???
+[reverseHalf](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/reverse_half/reverse_half.java)
+
+
+
 #### Билет 2
 Map от целых чисел к строкам в качестве параметра
 [reverse](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/reverse/rev_map.java)
@@ -31,6 +36,9 @@ Map от целых чисел к строкам в качестве парам�
 
 #### Билет 27
 [ArrayList на массиве](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/mas_array/ArrayListFromArray.java)
+
+#### Билет 28
+[Сумма цифр числа через рекурсию]()
 
 #### Билет 29
 [Стек на массиве](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/mas_stack/StackFromArray.java)
