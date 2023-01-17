@@ -16,7 +16,7 @@ Map от целых чисел к строкам в качестве парам�
 
 #### Билет 3
 Map от строк, проверка на уникальность
-[reverse](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/is_uniq/isUnique.java)
+[isUniq](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/is_uniq/isUnique.java)
 
 #### Билет 4
 Метод, который принимает множество, Set целых чисел в качестве параметра и возвращает true\false
