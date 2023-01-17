@@ -14,6 +14,10 @@
 Map от целых чисел к строкам в качестве параметра
 [reverse](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/reverse/rev_map.java)
 
+#### Билет 3
+Map от строк, проверка на уникальность
+[reverse](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/is_uniq/isUnique.java)
+
 #### Билет 4
 Метод, который принимает множество, Set целых чисел в качестве параметра и возвращает true\false
 [hasOdd](https://github.com/AlexeyLunyakov/testing_prcjt/blob/master/src/testt/has_odd/has_odd.java)
